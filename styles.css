@@ -124,4 +124,9 @@ body {
         padding: 12px 20px;
         font-size: 1em;
     }
+    .link-button i {
+    margin-right: 10px; /* 아이콘과 텍스트 사이에 간격 추가 */
+    /* 아이콘 크기 조절이 필요하면 font-size를 추가 */
+    /* font-size: 1.2em; */
+}
 }
